@@ -1,0 +1,10 @@
+default color #21b2a6
+cahnge color #008000
+change color 2 #8A9A5B
+
+
+header  #2e3842
+
+footer #1d242a
+
+
